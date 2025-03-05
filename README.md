@@ -4,7 +4,7 @@ This app demonstrates the usage of React Native WebView with two different archi
 
 | Old Architecture                       | New Architecture                       |
 | -------------------------------------- | -------------------------------------- |
-| ![Old Architecture Demo](old_arch.mov) | ![New Architecture Demo](new_arch.mov) |
+| ![Old Architecture Demo](old_arch.gif) | ![New Architecture Demo](new_arch.gif) |
 
 ## Features
 
@@ -62,6 +62,7 @@ This app demonstrates the usage of React Native WebView with two different archi
 If you encounter any issues, try the following:
 
 - Ensure all dependencies are correctly installed
+- Clean the android build folder with `cd android && ./gradlew clean`
 - Clean the build folders and rebuild the app
 - Make sure your development environment is properly set up for React Native
 
