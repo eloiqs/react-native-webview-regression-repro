@@ -20,7 +20,7 @@ const App: React.FC = () => {
   return (
     <View style={styles.container}>
       <Text>
-        react-native-webview version 13.13.2 with react-native 0.77 (new arch)
+        react-native-webview version 13.12.5 on react-native 0.76 (old arch)
       </Text>
       <WebView
         style={styles.webview}
