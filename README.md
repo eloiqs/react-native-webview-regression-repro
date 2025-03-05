@@ -2,6 +2,10 @@
 
 This app demonstrates the usage of React Native WebView with two different architectures.
 
+| Old Architecture                       | New Architecture                       |
+| -------------------------------------- | -------------------------------------- |
+| ![Old Architecture Demo](old_arch.mov) | ![New Architecture Demo](new_arch.mov) |
+
 ## Features
 
 - WebView with two buttons:
